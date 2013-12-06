@@ -1,0 +1,35 @@
+.slideshow img { 
+  display: none;
+  height: 269px !important;
+  width: 200px !important;
+  float: left !important;
+  border: 20px solid black;
+}
+.slideshow img.first { 
+  display: block;
+}
+
+.slideshow {
+  position: absolute;
+}
+
+.slideshow2 {
+  margin-left: 220px;
+}
+
+.slideshow3{
+  margin-left: 440px;
+}
+
+.spin-button {
+  cursor:pointer; 
+  background-color: white;
+  border-radius: 20px;
+  margin-left: 683px;
+  height: 310px;
+  width: 251px;
+  font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans", Tahoma, sans-serif;
+  font-size: 22px; 
+}
+
+
